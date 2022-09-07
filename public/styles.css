@@ -6,9 +6,11 @@ body{
 }
 
 .card{
+    margin: 21px auto 0;
     height: 800px;
     width: 550px;
     background-color: #23252C; 
+    border-radius: 5%;
 }
 
 .card > img {
@@ -19,5 +21,6 @@ body{
 }
 
 .header{
-    margin: 21px auto;
+    margin: 50px auto;
+    padding-top: 21px;
 }
