@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+.card{
+    height: 800px;
+    width: 550px;
+    background-color: #23252C; 
+}
+
+.card > img {
+    margin: 44px auto 500px;
+    width: 317px;
+    height: 317px;
+
+}
