@@ -24,3 +24,18 @@ body{
     margin: 50px auto;
     padding-top: 21px;
 }
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.buttons:hover{
+    background-color: blue;
+
+}
+
+.btn{
+    padding: 10px;
+}
