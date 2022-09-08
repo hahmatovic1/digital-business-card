@@ -50,3 +50,9 @@ body{
     background-color: #5093E2;
     color: #fff;
 }
+
+.main-text{
+    width: 400px;
+    margin: 50px auto 20px;
+    text-align: left;
+}
