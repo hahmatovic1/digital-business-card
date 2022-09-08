@@ -26,17 +26,19 @@ body{
     margin: 0 5px 0 20px;
 }
 
-.header h1{
-    font-size: 25px;
+h1{
+    font-size: 26px;
 }
 
-.header h2{
-    font-size: 20px;
+h2{
+    font-size: 22px;
+    margin: 15px 0;
 }
 
-.header a{
-    font-size: 14px;
+p, a{
+    font-size: 15px;
     color:white;
+    margin: 0 0 5px;
 }
 
 
@@ -72,7 +74,7 @@ body{
 
 .main-text{
     width: 400px;
-    margin: 50px auto 20px;
+    margin: 25px auto 20px;
     text-align: left;
 }
 
