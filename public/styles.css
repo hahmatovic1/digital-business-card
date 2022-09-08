@@ -65,9 +65,9 @@ p, a{
     padding-right: 8px;
 }
 
-.btn-envelope{
+.btn-git{
     background-color: #D1D5DB;
-    color: gray;
+    color: #23252C
 }
 
 .btn-linkedin{
@@ -88,7 +88,7 @@ p, a{
     display: flex;
     justify-content: space-between;
     list-style-type: none;
-    width: 250px;
+    width: 230px;
     margin: 30px auto 20px;
     padding: 0;
 }
