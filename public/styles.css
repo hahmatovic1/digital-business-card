@@ -1,14 +1,16 @@
 body{
-    margin: 0;
+    margin: 10% auto;
     text-align: center;
     color: #fff;
     font-family: 'Inter', sans-serif;
+    background-color:#5093E2;
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum-dark.png");
 }
 
 .card{
-    margin: 21px auto 0;
-    height: 800px;
-    width: 550px;
+    margin: 21px auto;
+    height: 580px;
+    width: 540px;
     background-color: #23252C; 
     border-radius: 5%;
 }
@@ -46,6 +48,7 @@ p, a{
     margin: auto 0;
     width: 150px;
     height: 150px;
+    border-radius: 3px;
 }
 
 .btn{
