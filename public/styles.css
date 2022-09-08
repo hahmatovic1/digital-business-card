@@ -22,7 +22,20 @@ body{
     justify-content: space-around;
 }
 
+.header-text{
+    margin: 0 5px 0 20px;
+}
+
+.header h1{
+    font-size: 25px;
+}
+
+.header h2{
+    font-size: 20px;
+}
+
 .header a{
+    font-size: 14px;
     color:white;
 }
 
