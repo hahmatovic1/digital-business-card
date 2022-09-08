@@ -56,3 +56,20 @@ body{
     margin: 50px auto 20px;
     text-align: left;
 }
+
+
+/* footer */
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    width: 250px;
+    margin: 30px auto 20px;
+    padding: 0;
+}
+
+.icon {
+    color: white;
+    text-decoration: none;
+}
