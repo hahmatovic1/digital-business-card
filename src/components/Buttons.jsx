@@ -1,8 +1,19 @@
 import React from 'react'
+import LinkButton from './LinkButton'
 
 export default function Buttons(){
     return <div className="buttons">
-    <button className="btn btn-linkedin"><i class="fa-brands fa-linkedin fa-xl"></i>LinkedIn</button>
-    <button className="btn btn-git"><i class="fa-brands fa-github fa-xl"></i>GitHub</button>
+    <LinkButton 
+        styleClass = "btn btn-git"
+        link = "https://github.com/hahmatovic1/"
+        fontawesomeClass = "fa-brands fa-github fa-xl"
+        text = "GitHub"
+    />
+    <LinkButton 
+        styleClass = "btn btn-linkedin"
+        link = "https://www.linkedin.com/in/hadija-ahmatovi%C4%87-001478164"
+        fontawesomeClass = "fa-brands fa-linkedin fa-xl"
+        text = "LinkedIn"
+    />
 </div>
 }
